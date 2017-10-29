@@ -1,0 +1,4 @@
+.h(text="Choose a stream")
+.d()
+.r(action="view.php",name="radioName",value="all")
+.b(link="index.php",name="Home")

@@ -1,0 +1,5 @@
+.h(text="Add/Remove Author",size=3)
+.d()
+.i(buttons=2,name="add",value="Add Author",name="remove",value="Remove Author"|action="addRemove.php",text="Enter Author ID: ",name="authorID",value="Author ID",text= "Enter stream(s): ",name="streams",value="stream1, stream2, [...]")
+.b(name="Post",link="getInfo.php")
+.b(name="Home", link="index.php")

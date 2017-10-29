@@ -1,0 +1,5 @@
+.h(text="Get Stream and Author ID for Post")
+.d()
+.i(action="post.php",text="Please enter your author ID: ",name="authorID",value="Author ID",text="Please enter the stream you would like to post to: ",name="stream",value="stream name")
+.b(name="Add/Remove Author", link="addRemove.php")
+.b(name="Home", link="index.php")

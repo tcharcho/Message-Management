@@ -1,0 +1,6 @@
+.h(text="Post to Stream",size=3)
+.d()
+.a(action="post.php",rows=18,cols=60,text="Please enter your post below:<br>",name="thePost",value="Enter post here...")
+.b(name="Home", link="index.php")
+.b(name="Add/Remove Author", link="addRemove.php")
+.b(name="Post as Another User to another Stream",link="getInfo.php")
